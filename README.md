@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, Je m'appelle Assouman GBANÉ, Ingénieur DevOps Junior et également développeur Python autodidacte passionné vivant en Côte d'Ivoire
-
+<h1 align="center">Hi 👋, Je m'appelle Assouman GBANÉ,</h1>
+Ingénieur DevOps Junior et également développeur Python autodidacte passionné vivant en Côte d'Ivoire.
 Ma passion pour l'automatisation consiste à imaginer de nouvelles idées et à leur donner vie de bout à bout, en passant bien sûr par tous les autres processus de développement, d'automatisation, d'intégration continue et de déploiement continu
-
-c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujours continuer à améliorer mes compétences dans ce domaine. </h1>
+c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujours continuer à améliorer mes compétences dans ce domaine.
 
 
 
