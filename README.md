@@ -35,7 +35,6 @@ c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujour
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gbaneassouman&show_icons=true&locale=en&theme=" alt="gbaneassouman" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gbaneassouman&theme=" alt="gbaneassouman" /></p>
 
 
 <div align="center">
