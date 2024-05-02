@@ -15,7 +15,7 @@ that's why I love the Devops culture and my main goal is to always keep improvin
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="38"/>&nbsp;
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/terraform.png" alt="Terraform" width="40" height="40"/>&nbsp;
