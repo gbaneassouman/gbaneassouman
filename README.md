@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Je m'appelle Assouman GBANÉ,</h1>
 <div>
-  <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/DevOps-scaled.jpg" />
+  <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/devops_2.png" />
 </div>
 <hr>
 Ingénieur DevOps, il m'arrive aussi de développer en Python (django,fastapi,scripting), je suis un autodidacte passionné vivant en Côte d'Ivoire.
