@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Assouman GBANÉ</h1>
+<h1 align="left">Hi 👋, i'm Assouman GBANÉ</h1>
 <div>
   <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/DevOps-scaled.jpg" />
 </div>
