@@ -17,12 +17,12 @@ that's why I love the Devops culture and my main goal is to always keep improvin
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="38"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/terraform.png" alt="Terraform" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/gitlab.png" alt="Gitlab" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/jenkins.png" alt="Jenkins" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="42" height="42"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="38"/>&nbsp;
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/terraform.png" alt="Terraform" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/gitlab.png" alt="Gitlab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/jenkins.png" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="42" height="42"/>&nbsp;
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
