@@ -3,8 +3,8 @@
   <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/DevOps-scaled.jpg" />
 </div>
 <hr>
-Ingénieur DevOps, il m'arrive aussi de développer en Python (django,fastapi,scripting), je suis un autodidacte passionné vivant en Côte d'Ivoire.
-Ma passion pour l'automatisation consiste à imaginer de nouvelles idées et à leur donner vie en passant bien sûr par tous les autres processus de développement, d'automatisation, d'intégration continue et de déploiement continu
+Ingénieur DevOps , il m'arrive aussi de développer en Python (django,fastapi,scripting), je suis un autodidacte passionné vivant en Côte d'Ivoire.
+Ma passion pour l'automatisation consiste à imaginer de nouvelles idées et à leur donner vie en passant bien sûr par tous les processus de développement, d'automatisation, d'intégration continue et de déploiement continu
 c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujours continuer à améliorer mes compétences dans ce domaine.
 <hr>
 <div> 
