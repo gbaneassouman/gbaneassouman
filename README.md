@@ -14,27 +14,18 @@ c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujour
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Python" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="40"/>
+
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="38"/>
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/terraform.png" alt="Terraform" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/gitlab.png" alt="Gitlab" width="40" height="40"/>
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/jenkins.png" alt="Jenkins" width="40" height="40"/>
-<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/python.png" alt="Python" width="40" height="40"/>
-
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="42" height="42"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
