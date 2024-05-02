@@ -23,7 +23,7 @@ that's why I love the Devops culture and my main goal is to always keep improvin
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/jenkins.png" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="42" height="42"/>&nbsp;
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>&nbsp;
