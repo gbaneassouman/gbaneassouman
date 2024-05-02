@@ -16,6 +16,14 @@ c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujour
 <p align="left">
   
 <img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Python" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/ansible.png" alt="Ansible" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/terraform.png" alt="Terraform" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/docker.png" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/gitlab.png" alt="Gitlab" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/jenkins.png" alt="Jenkins" width="40" height="40"/>
+<img src="https://github.com/gbaneassouman/images/blob/main/screenshots/python.png" alt="Python" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
