@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Je m'appelle Assouman GBANÉ,</h1>
 Ingénieur DevOps, aussi il m'arrive de développer en Python (django,fastapi,scripting) je suis un autodidacte passionné vivant en Côte d'Ivoire.
-Ma passion pour l'automatisation consiste à imaginer de nouvelles idées et à leur donner vie de bout à bout, en passant bien sûr par tous les autres processus de développement, d'automatisation, d'intégration continue et de déploiement continu
+Ma passion pour l'automatisation consiste à imaginer de nouvelles idées et à leur donner vie en passant bien sûr par tous les autres processus de développement, d'automatisation, d'intégration continue et de déploiement continu
 c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujours continuer à améliorer mes compétences dans ce domaine.
 
 
