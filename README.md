@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Je m'appelle Assouman GBANÉ,</h1>
 <div>
-  <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/devops_2.png" />
+  <img align="center" src="https://github.com/gbaneassouman/images/blob/main/screenshots/DevOps-scaled.jpg" />
 </div>
 <hr>
 Ingénieur DevOps, il m'arrive aussi de développer en Python (django,fastapi,scripting), je suis un autodidacte passionné vivant en Côte d'Ivoire.
@@ -12,8 +12,6 @@ c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujour
 <p align="left">
 <a href="https://twitter.com/GbaneAssouma" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GbaneAssouma" height="30" width="40" /></a><a href="https://linkedin.com/in/gbane-assouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="gbane-assouman" height="30" width="40" /></a>
 </p>
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
