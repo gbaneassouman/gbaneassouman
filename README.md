@@ -45,4 +45,3 @@ c'est pourquoi j'aime la culture Devops et mon objectif principal est de toujour
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gbaneassouman&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbaneassouman&theme=2077" height="180em" />
 </div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gbaneassouman&theme=default"/>
